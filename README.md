@@ -15,7 +15,7 @@ Download here: [AscTec_Pelican_Flight_Dataset](http://wavelab.uwaterloo.ca/wp-co
 The AscTec Pelican is a light weight quadrotor. It is equipped with a real-time autopilot board coupled with an onboard computer running Ubuntu OS and communicates with the autopilot board via a UART connection. The ROS Indigo software running a suitable ROS node is used to collect the motor speeds and Inertial Measurement Unit (IMU) measurements. The vehicle is operated in an indoor environment by an expert pilot using a Futaba T7C remote control.
 
 ### Measurement system, data synchronisation and signals
-Download this [documentation](https://github.com/wavelab/pelican_dataset/dataset/Pelican_Dataset.pdf).
+Download this [documentation](https://github.com/wavelab/pelican_dataset/blob/master/dataset/Pelican_Dataset.pdf).
 
 ### Description
 The dataset contains 54 flights covering a wide range of regimes. The flights are stored as MATLAB cells with the following fields:
