@@ -27,3 +27,11 @@ The dataset contains 54 flights covering a wide range of regimes. The flights ar
 - Motors_CMD: The commanded motor speeds as reported by the ROS node, a 4-by-len matrix
 - Vel: The calculated velocity (v_x, v_y, v_z) by applying a numerical difference on the position measurement, a 3-by-(len-1) matrix
 - pqr: The calculated body rates (p, q, r) by applying a numerical difference on the Euler measurements and transferring them into the body frame, a 3-by-(len-1) matrix
+
+If you use this dataset, kindly cite our papers:
+
+ * Deep Learning a Quadrotor Dynamic Model for Multi-Step Prediction, N Mohajerin, M Mozifian, SL Waslander
+IEEE International Conference on Robotics and Automation (ICRA), 2018.
+
+ * Multistep Prediction of Dynamic Systems With Recurrent Neural Networks, N Mohajerin, SL Waslander
+IEEE transactions on neural networks and learning systems, 2019.
