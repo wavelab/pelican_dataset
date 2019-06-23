@@ -1,7 +1,7 @@
 # Pelican Dataset
 
 
-As a part of a project in [WAVELab](http://wavelab.uwaterloo.ca/) on system identification and modeling of a quadrotor for Multi-Step prediction, a dataset was gathered. This page contains information about this dataset. The results of a Black-box and a Grey-box modeling will be also reported shortly.
+As a part of a project in [WAVELab](http://wavelab.uwaterloo.ca/) on system identification and modeling of a quadrotor for Multi-Step prediction, a dataset was gathered. This page contains information about this dataset. The results of a Black-box and a Grey-box modeling are reported in [1, 2].
 
 (Maintained by [Nima Mohajerin](mohajerin.nima@gmail.com))
 
@@ -30,8 +30,8 @@ The dataset contains 54 flights covering a wide range of regimes. The flights ar
 
 If you use this dataset, kindly cite our papers:
 
- * Deep Learning a Quadrotor Dynamic Model for Multi-Step Prediction, N Mohajerin, M Mozifian, SL Waslander
+ [1] Deep Learning a Quadrotor Dynamic Model for Multi-Step Prediction, N Mohajerin, M Mozifian, SL Waslander
 IEEE International Conference on Robotics and Automation (ICRA), 2018.
 
- * Multistep Prediction of Dynamic Systems With Recurrent Neural Networks, N Mohajerin, SL Waslander
+ [2] Multistep Prediction of Dynamic Systems With Recurrent Neural Networks, N Mohajerin, SL Waslander
 IEEE transactions on neural networks and learning systems, 2019.
